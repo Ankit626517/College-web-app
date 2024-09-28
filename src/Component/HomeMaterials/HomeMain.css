@@ -1,0 +1,52 @@
+.HomeFirstBlock{
+    height:auto;
+    width: auto;
+    background-color: rgb(62, 60, 60);
+   margin: 1rem;
+    padding: 5rem;
+    display: grid;
+    
+    grid-template-columns: 4fr 1fr;
+ 
+}
+.HomeFirstBlock_box1{
+    /* border: 1px green solid; */
+    padding: 2rem;
+    color: aliceblue;
+}
+.HomeFirstBlock_box1 span{
+    font-size: 8rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+
+}
+.HomeFirstBlock_box1 h2{
+    font-size: 2rem;
+    font-family: cursive;
+    line-height: 6rem;
+ 
+
+}
+
+
+.HomeFirstBlock_box2{
+    /* border: 1px green solid; */
+    font-size: 2rem;
+    cursor: pointer;
+    text-align: right;
+    display: grid;
+    grid-template-rows: 0.10fr 0.10fr 0.10fr 0.10fr 0.10fr 0.10fr 0.10fr;
+   align-content: center;
+   color: aliceblue;
+
+  
+}
+.HomeFirstBlock_box2_Link{
+    color: aliceblue;
+}
+.HomeFirstBlock_box2_Link:hover{
+    color:yellow;
+    font-size: 2.2rem;
+}
+
+

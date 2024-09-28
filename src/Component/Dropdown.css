@@ -1,0 +1,38 @@
+.navbar_Dropdown_main_box{
+    width: 10rem;
+    position: absolute;
+    list-style: none;
+    text-align: start;
+    top: 3.1rem;
+
+    
+
+}
+.navbar_Dropdown_main_box li {
+    background: rgb(52, 47, 47);
+    cursor: pointer;
+   
+    /* border: 1px red solid; */
+    line-height: 2rem;
+    font-size: 1.2rem;
+    
+}
+.navbar_Dropdown_main_box.clicked {
+   display: none;
+}
+.navbar_Dropdown_main_box_item{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    font-size: 10rem;
+    /* border: 2px red solid; */
+    
+
+}
+.navbar_Dropdown_main_box_item:hover{
+background: rgb(0, 0, 0);
+
+
+}
