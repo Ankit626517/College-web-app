@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
     <div>
-      HEllo i am About
+      or ranu kesi hai 
     </div>
   )
 }
