@@ -3,7 +3,7 @@ import React from 'react'
 function Academics() {
   return (
     <div>
-      HEllo i am AcAdemics
+      HEllo i am padhai
     </div>
   )
 }
