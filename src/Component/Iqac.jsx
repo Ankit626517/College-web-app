@@ -3,9 +3,7 @@ import React from 'react'
 function Iqac() {
   return (
     <div>
-    <h1>ajfjhfhsjkfhhjksdf
-      sdfksdfdhsdjf
-      sddfjsdhfjk
+    <h1>github se local vs code per changes kese honge 
 
     </h1>
     </div>
